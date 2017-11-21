@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1511298146477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7E68DA83",
+    "lastKnownWriteTime" : 1511295384,
+    "last_content_update" : 1511295384,
+    "path" : "~/Documents/Software/demo/R/mc_integration.R",
+    "project_path" : "R/mc_integration.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
